@@ -4,8 +4,8 @@ A beautiful, feature-rich **Pomodoro Timer** web application built to help you s
 
 Built with **Next.js 16**, **TypeScript**, **Tailwind CSS 4**, **shadcn/ui**, and **Zustand**. Installable as a **Progressive Web App (PWA)** on any device.
 
-## Live 
-[URL]<https://pomodoro-timer-six-weld.vercel.app/>
+## URL
+<https://pomodoro-timer-six-weld.vercel.app/>
 
 ---
 
